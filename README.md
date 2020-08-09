@@ -1,1 +1,1 @@
-# Chrome_KOR_ErrataCorrection
+# ChromeAutoErrataFix
